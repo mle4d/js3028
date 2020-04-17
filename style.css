@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
 body {
   margin: 0;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,4 +9,19 @@ body {
   background-size: cover;
   font-family: 'Reenie Beanie', cursive;
 }
+.wrapper {
+  width: 40%;
+  height: 80%;
+  display: flex;
+  position: fixed;
+  right: 5%;
+}
+
+video {
+  opacity: .9;
+  height: 100%;
+  width: 85%;
+  outline: none;
+}
+
 
