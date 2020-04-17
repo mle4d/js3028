@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* min-height: 100vh; */
+  background: #000000 url(assets/background.jpg) center;
+  background-size: cover;
+  font-family: 'Reenie Beanie', cursive;
+}
+
