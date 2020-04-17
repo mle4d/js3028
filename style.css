@@ -24,4 +24,25 @@ video {
   outline: none;
 }
 
+.speed {
+  display: flex;
+  align-items: flex-start;
+  overflow: hidden;
+  height: 95%;
+  width: 20%;
+}
+
+.speed-bar {
+  width: 100%;
+  height: 100%;
+  background: #65656594;
+  background-size: cover;
+  font-size: 2vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+
 
